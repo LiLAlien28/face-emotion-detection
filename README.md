@@ -11,7 +11,7 @@ This project detects human emotions from facial expressions in real time using a
 - Angry
 - Surprise
 - Neutral
-- Fear (if applicable)
+- Fear 
 
 ## 🛠️ Tech Stack
 - Python
@@ -19,7 +19,7 @@ This project detects human emotions from facial expressions in real time using a
 - OpenCV
 - NumPy
 - Matplotlib
-- Streamlit / Gradio (if used)
+- Gradio
 
 ## ⚙️ How It Works
 1. Face detection using OpenCV
